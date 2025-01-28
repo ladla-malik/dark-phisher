@@ -360,7 +360,7 @@ about() {
 		  any misuse of this toolkit ${RED}!${WHITE}
 		
 		${WHITE} ${CYANBG}Special Thanks to Team:${RESETBG}
-		${GREEN}  LADLA MALIK, SHEIKH ALI, HASSAN RAJPOOT, AK HACKER, MOIZ ❤️
+		${GREEN}  LADLA MALIK, SHEIKH ALI, HASSAN RAJPOOT, AK HACKER, MOIZ, Dhamii ❤️
 
 		${RED}[${WHITE}00${RED}]${ORANGE} Main Menu     ${RED}[${WHITE}99${RED}]${ORANGE} Exit
 
